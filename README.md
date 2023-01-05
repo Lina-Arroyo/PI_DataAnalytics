@@ -53,7 +53,7 @@ El tipo de dato en las columnas 'Provincia', 'Año', y 'Acceso por cada 100 hoga
 
 No se realizo el descarte de ninguna columna ya que todas revelaban información importante para el analisis de los datos, la resolución de las incognitas propuestas y la investigación a realizar con estos </br>
 
-El dataset contaba con los siguientes tipos de datos: Int64(2), object(2) y ocupaba la siguiente cantidad de memoria: 24.9+ KB </br>
+El dataset contaba con los siguientes tipos de datos: Int64(2), object(2) y ocupaba la siguiente cantidad espacio en memoria: 24.9+ KB </br>
 
 
 * DICCIONARIO DE DATOS
